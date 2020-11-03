@@ -4,27 +4,27 @@ var day = 1
 
 switch (day) {
   case 1:
-    alert('nous sommes lundi')
+    console.log('nous sommes lundi')
     break;
   case 2:
-    alert('nous sommes mardi')
+    console.log('nous sommes mardi')
     break;
   case 3:
-    alert('nous sommes mercredi')
+    console.log('nous sommes mercredi')
     break;
   case 4:
-    alert('nous sommes jeudi')
+    console.log('nous sommes jeudi')
     break;
   case 5:
-    alert('nous sommes vendredi')
+    console.log('nous sommes vendredi')
     break;
   case 6:
-    alert('nous sommes samedi')
+    console.log('nous sommes samedi')
     break;
   case 7:
-    alert('nous sommes dimanche')
+    console.log('nous sommes dimanche')
     break;
 
   default:
-    alert('rien à afficher ici')
+    console.log('rien à afficher ici')
 }
