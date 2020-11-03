@@ -1,5 +1,5 @@
 //Ici je crée une variable x et je demande à l'utilisateur une valeur décimale //
-let x = prompt('Donnez moi un jour de la semaine ?');
+let x = prompt('Donnez moi une note?');
 
 //Ici je donne une condition
 
